@@ -1,0 +1,52 @@
+span{
+    color: blue;
+}
+.beautiful >img, .bcontent{
+    display: inline-block;
+}
+.bcontent{
+    margin: 0px 0px  0px 20px;
+    
+}
+.beautiful > img{
+    width: 40%;
+    float: left;
+}
+.construction >img, .ccontent{
+    display: inline-block;
+}
+.ccontent{
+    margin: 0px 0px 0px 20px;
+    
+}
+.construction > img{
+    width: 40%;
+    float: left;
+}
+h1{
+    font-size: 5em;
+}
+footer{
+    clear: both;
+    text-align: end;
+    color: brown;
+}
+.total{
+    width: 40%;
+    display: inline-block;
+    margin: 0px 250px 0px 0px;
+}
+
+.total1{
+    width: 40%;
+    display: inline-block;
+    margin-bottom: 12%;
+}
+body{
+    margin: 50px 5px 0px 50px;
+}
+footer{
+    clear: both;
+    text-align: end;
+    color: brown;
+}
